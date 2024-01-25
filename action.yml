@@ -5,7 +5,7 @@ inputs:
   yq-version:  # id of input
     description: 'What version of YQ to install'
     required: false
-    default: '3.3.2'
+    default: '4.50.5'
   yq-url:
     description: 'The url to download YQ from'
     required: false
